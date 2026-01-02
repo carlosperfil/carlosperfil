@@ -2,8 +2,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/carlosperfil?igsh=MTE1anVyeGh1ODJkNA==)[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](contatocarlosperfil@gmail.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosperfil&layout=donut&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosperfil&layout=donut&theme=radical&hide_border=true)]
 ## My skills
 
 <div style="display: inline_block"><br/>
