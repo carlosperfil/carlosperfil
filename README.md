@@ -10,4 +10,6 @@ Always Learning. Always Improving.
 [![GIT](https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=white)]()
 [![GITHUB](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)]()
 
-![200](https://github.com/user-attachments/assets/1cf37b28-9a3d-49c4-97b5-d620f8ad1142)
+<p>
+  <img src="exe.png" width="300" />
+</p>
